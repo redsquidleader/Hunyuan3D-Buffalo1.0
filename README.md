@@ -1,5 +1,12 @@
-<p align="center">
-  <h3 align="center"><strong>Hunyuan3D-Buffalo 1.0：A Unified Multimodal Model for Scalable 3D Generation, Understanding, and Editing</strong></h3>
+<!-- <p align="center">
+  <h3 align="center"><strong>Hunyuan3D-Buffalo 1.0：A Unified Multimodal Model for Scalable 3D Generation, Understanding, and Editing</strong></h3> -->
+
+
+<div align="center">
+<h1>Hunyuan3D-Buffalo 1.0</h1>
+<p><b>A Unified Multimodal Model for Scalable 3D Generation, Understanding, and Editing</b></p>
+<p><i>Tencent Hunyuan3D</i></p>
+</div>
 
 <p align="center">
   <a href="https://arxiv.org/abs/2608.02711" target="_blank">
@@ -13,9 +20,7 @@
   </a>
 </p>
 
-<p align="center">
-  <video src="assets/intro.mp4" width="95%" muted loop autoplay controls></video>
-</p>
+https://github.com/user-attachments/assets/274849d7-3bcc-4307-bc5e-a719f208cf85
 
 ## 📰 News
 - 2026.08.05: 🔥🔥[Paper](https://arxiv.org/abs/2608.02711) and [project page](https://tencent-hunyuan.github.io/Hunyuan3D-Buffalo1.0/) are released.
