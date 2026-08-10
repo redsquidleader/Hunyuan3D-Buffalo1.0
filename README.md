@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/teaser.jpg" width="95%">
+  <video src="assets/intro.mp4" width="95%" muted loop autoplay controls></video>
 </p>
 
 ## 📰 News
