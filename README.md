@@ -18,7 +18,7 @@
 </p>
 
 ## 📰 News
-- 2026.08.05: [Paper](https://arxiv.org/abs/2608.02711) and [project page](https://tencent-hunyuan.github.io/Hunyuan3D-Buffalo1.0/) are released.
+- 2026.08.05: 🔥🔥[Paper](https://arxiv.org/abs/2608.02711) and [project page](https://tencent-hunyuan.github.io/Hunyuan3D-Buffalo1.0/) are released.
 
 ## 📖 Method
 
@@ -26,7 +26,11 @@
   <img src="assets/pipeline.jpg" width="95%">
 </p>
 
+## 🏆 Result
 
+<p align="center">
+  <img src="assets/result.jpg" width="95%">
+</p>
 
 ## 📝 Citation
 
