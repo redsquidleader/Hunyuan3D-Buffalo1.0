@@ -28,7 +28,7 @@ https://github.com/user-attachments/assets/274849d7-3bcc-4307-bc5e-a719f208cf85
 ## 📖 Method
 
 <p align="center">
-  <img src="assets/pipeline.jpg" width="95%">
+  <img src="assets/pipeline.png" width="95%">
 </p>
 
 ## 🏆 Result
